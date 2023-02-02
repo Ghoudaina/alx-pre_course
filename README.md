@@ -1,1 +1,2 @@
-edited the file 1st try
+my first readme updated
+
